@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">xoxoyunu</string>
+    <string name="player2_turn" />
+    <string name="player1_turn" />
+    <string name="player1_wins" />
+    <string name="player2_wins" />
+    <string name="draw" />
+</resources>
